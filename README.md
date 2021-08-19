@@ -5,8 +5,9 @@ Setup guide:
 
 2- run
 ```
-npm install
 composer install
+npm install
+npm run prod
 ```
 
 3- run
