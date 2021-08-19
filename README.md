@@ -1,7 +1,7 @@
 
 Setup guide:
 
-1- Create `testdb1` database and import `db.sql` file.
+1- Create `testdb1` database and import `db.sql` file. Add mysql credentials to `.env` file.
 
 2- run
 ```
